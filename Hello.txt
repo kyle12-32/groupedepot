@@ -1,3 +1,9 @@
 coucouuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 je suis laaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<<<<<<< HEAD
 Tholcapian Lukeeson 
+=======
+
+
+Je suis victor
+>>>>>>> Victor
